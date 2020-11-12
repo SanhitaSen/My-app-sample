@@ -1,3 +1,6 @@
 body{
     background: linear-gradient(rgb(247, 217, 217), rgb(77,77,88));
 }
+h2{
+    color: blueviolet;
+}
